@@ -33,6 +33,6 @@ Loss function for the training is crossentropy.
 ### Results
 
 Use the trained model to do segmentation on test images, the result is statisfactory.
-
+Target image                           Predicted image                  Original image
 ![sgd_optimizer_latest.png](sgd_optimizer_latest.png)
 
